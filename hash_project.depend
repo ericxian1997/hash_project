@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1496910624 source:e:\dropbox\cppcode\hash_project\main.cpp
+	<bits/stdc++.h>
+	"hash.h"
+
+1494646432 e:\dropbox\cppcode\hash_project\hash.h
+
+1494647230 source:c:\users\administrator\dropbox\cppcode\hash_project\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<string>
+	<vector>
+	<list>
+	<set>
+	"hash.h"
+
+1494646432 c:\users\administrator\dropbox\cppcode\hash_project\hash.h
+
